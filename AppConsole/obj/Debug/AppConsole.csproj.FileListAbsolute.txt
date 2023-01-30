@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\bin\Debug\AppConsole.exe.config
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\bin\Debug\AppConsole.exe
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\bin\Debug\AppConsole.pdb
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\obj\Debug\AppConsole.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\obj\Debug\AppConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\obj\Debug\AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\obj\Debug\AppConsole.exe
+C:\Users\Медиацентр\source\repos\AppConsole\AppConsole\obj\Debug\AppConsole.pdb
